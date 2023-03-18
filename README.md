@@ -10,4 +10,5 @@ You can get to the folder by pressing Windows Logo + R, typing "%appdata%", and 
 4. Open the Minecraft launcher and press Play
 5. ...Profit?
 
-###### (Modpack also includes a minimap and litematica)
+###### (Modpack also includes a minimap, litematica and a more customizable F3 menu)
+If you have any questions @ me in the Discord
