@@ -9,3 +9,5 @@ You can get to the folder by pressing Windows Logo + R, typing "%appdata%", and 
 3. Put all of the downloaded files into the newly created mods folder.
 4. Open the Minecraft launcher and press Play
 5. ...Profit?
+
+###### (Modpack also includes a minimap and litematica)
