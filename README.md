@@ -1,4 +1,4 @@
-# Performance Modpack 1.19.3
+# Turtle's Performance Modpack 1.19.3
 
 ## How to use the mods
 1. Download [FabricMC](https://fabricmc.net/use/installer/ "Installation for Minecraft Launcher").
