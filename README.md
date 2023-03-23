@@ -40,8 +40,6 @@ If you have any questions @ me in the Discord
    * A mod to optimize the Minecraft networking stack
 ### LazyDFU
    * Makes the game boot faster by deferring non-essential initialization.
-### Litematica
-   * Creates holograms of builds you have made, allowing you to build it in a different world
 ### Lithium
    * No-compromises game logic/server optimization mod
 ### LogCleaner
@@ -60,8 +58,6 @@ If you have any questions @ me in the Discord
    * Modern rendering engine and client-side optimization mod for Minecraft
 ### ToolTipFix
    * Fixes Tooltips from runnning off the screen
-### WorldEdit
-   * A Minecraft Map Editor (won't work on servers, but doesn't need to be removed to join them)
 ### Zoomify
    * A zoom mod with infinite customizability
 
