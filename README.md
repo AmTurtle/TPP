@@ -1,7 +1,15 @@
 # Turtle's Performance Modpack 1.19.3
 
 ## How to use the mods
-1. Download [FabricMC](https://fabricmc.net/use/installer/ "Installation for Minecraft Launcher").
+While [Method 1](#method-1-easy) is easier for less tech savvy people, I recommend sticking through it and going with [Method 2](#method-2-medium-difficulty).
+### Method 1 (Easy)
+1. Go to https://modrinth.com/modpack/tpp and download the latest release.
+   * You will need the downloaded file later.
+2. Download either [ATLauncher](https://atlauncher.com/), [MultiMC](https://multimc.org/), [PrismLauncher](https://prismlauncher.org/).
+   * Modrinth has documentation on how to use the launchers to install modpacks [ATLauncher Instructions](https://docs.modrinth.com/docs/modpacks/playing_modpacks/#atlauncher), [MultiMC or Prism Instructions](https://docs.modrinth.com/docs/modpacks/playing_modpacks/#multimc-and-prism-launcher)
+
+### Method 2 (Medium Difficulty)
+1. Download [Fabric](https://fabricmc.net/use/installer/ "Installation for Minecraft Launcher").
    * Open up the downloaded file and change the Minecraft version to the version that this modpack uses and press install.
 2. Download the files of this repository.
    * If you don't don't already have one make a folder in your .minecrat folder called "mods".
@@ -10,7 +18,6 @@ You can get to the folder by pressing Windows Logo + R, typing "%appdata%", and 
 4. Open the Minecraft launcher and press Play
 5. ...Profit?
 
-###### (Modpack also includes a minimap, litematica and a more customizable F3 menu)
 If you have any questions @ me in the Discord
 
 ## List of all mods included and what they do
