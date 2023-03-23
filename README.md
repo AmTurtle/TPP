@@ -1,4 +1,4 @@
-# Performance Modpack 1.19.3
+# Turtle's Performance Modpack 1.19.3
 
 ## How to use the mods
 1. Download [FabricMC](https://fabricmc.net/use/installer/ "Installation for Minecraft Launcher").
@@ -12,3 +12,57 @@ You can get to the folder by pressing Windows Logo + R, typing "%appdata%", and 
 
 ###### (Modpack also includes a minimap, litematica and a more customizable F3 menu)
 If you have any questions @ me in the Discord
+
+## List of all mods included and what they do
+### 3DSkinLayers
+   * Replaces the usually flat second layer of player skins with a 3d modeled version. Will automatically switch to the vanilla 2d rendering when players are further away than 12 blocks in order to increase the framerate. Also supports transparent parts on things like glasses
+### BetterF3
+   * A mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD. You can customize colors, position, add spacings, and more
+### Capes
+   * A Fabric mod that lets you use capes from Optifine, LabyMod, and the MinecraftCapes Mod
+### Continuity
+   * A Fabric mod that allows for efficient connected textures
+### DynamicFPS
+   * Improve performance when Minecraft is in the background
+### EnhancedBlockEntities
+   * Reduce FPS lag with block entities, as well as customize them with resource packs
+### EntityCulling
+   * Using async path-tracing to hide Block-/Entities that are not visible
+### FerriteCore
+   * Memory usage optimizations
+### InventoryProfilesNext
+   * Take control over you inventory. Sort. Move matching Items. Throw all. Locked slots. Gear sets! And much more
+### Iris
+   * A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs
+### JourneyMap
+   * Real-time mapping in game or in a web browser as you explore
+### Krypton
+   * A mod to optimize the Minecraft networking stack
+### LazyDFU
+   * Makes the game boot faster by deferring non-essential initialization.
+### Litematica
+   * Creates holograms of builds you have made, allowing you to build it in a different world
+### Lithium
+   * No-compromises game logic/server optimization mod
+### LogCleaner
+   * A lightweight mod that cleans old, unused log files
+### MemoryLeakFix
+   * A mod that fixes random memory leaks for both the client and server
+### ModMenu
+   * Adds a mod menu to view the list of mods you have installed.
+### NoChatReports
+   * Makes chat unreportable (where possible)
+### NoTelemetry
+   * Disable the telemetry introduced in 21w38a
+### Phosphor
+   * No-compromises lighting engine optimization mod
+### Sodium
+   * Modern rendering engine and client-side optimization mod for Minecraft
+### ToolTipFix
+   * Fixes Tooltips from runnning off the screen
+### WorldEdit
+   * A Minecraft Map Editor (won't work on servers, but doesn't need to be removed to join them)
+### Zoomify
+   * A zoom mod with infinite customizability
+
+###### Any mods that are in the pack but not listed here are libraries that the mods above use to work. They don't change any functionalities of the game.
