@@ -1,12 +1,12 @@
-name = "Additive"
-author = "SkywardMC"
+name = "Turtle's Performace Pack"
+author = "AmTurtle"
 version = "1.31.0+1.21.1.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ca00d4b6765ecb490c2055244ae944f6ddd4bb870013c0acdb6ae9422bbc3c61"
+hash = "a2f4d56f5ba59ff8ceaa236af001f3dcf30aad7bd71e2a6894200065f62430a3"
 
 [versions]
 fabric = "0.16.7"
