@@ -101,6 +101,11 @@ file = "config/yosbr/options.txt"
 hash = "93c4b423cf982419932b7085a1233ae956061f262fb732fd7f132a6c56817c9a"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "6cc53611899ef65d2c4385d1fe5abcf92b5afac1448ec468383939685f6db42a"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "58134b8f4cca95555746efad25cc8a56c39ed57ba05f78d3aa61b603d378180c"
 metafile = true
@@ -321,6 +326,11 @@ hash = "3969af2963ad7ab059c1fc4485a579fe371b63f819878ad8407f5f4db51b61cf"
 metafile = true
 
 [[files]]
+file = "mods/one-world-folder.pw.toml"
+hash = "c5bc281218a376c2417ea17ddbef90340c97711ab6c466173e07aedadf92979d"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "ca77b2f891e554b3ba0db25f14403f7fbe9dceb7c0958e8077684b9a2d34529b"
 metafile = true
@@ -383,6 +393,11 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
 metafile = true
 
 [[files]]
