@@ -63,3 +63,11 @@ Android devices that use OpenGL translation layers (such as GL4ES, ANGLE, etc) a
 If you are running into problems, you should make sure that your graphics drivers are up-to-date. I also recommend taking a look at [this page](https://github.com/CaffeineMC/sodium-fabric/wiki/Driver-Compatibility) on the Sodium wiki.
 
 *The majority of this was taken from Sodium's hardware compatibility section. I'll update this accordingly if anything is changed.*
+
+<!--
+packwiz mr/cf add <mod-name>
+packwiz mr/cf remove <mod-name>
+packwiz mr/cf update <mod-name>
+
+just export fabric
+-->

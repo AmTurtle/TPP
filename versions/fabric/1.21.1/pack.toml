@@ -1,12 +1,12 @@
 name = "Turtle's Performace Pack"
 author = "AmTurtle"
-version = "1.31.0+1.21.1.fabric"
+version = "1.4.1+1.21.1.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8aac6fa8060be3bb712c32b053c200ead07c71ab15c55df812b7c85de7cffb8a"
+hash = "f202ad815b7648784bce7bb3bbd92cd576a8e73dc68b683ff0a37a487c8d2cc2"
 
 [versions]
 fabric = "0.16.7"
